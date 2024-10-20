@@ -24,7 +24,7 @@ function getMovies() {
 $requestHead = isset($_POST['head']) ? json_decode($_POST['head'], true) : [];
 $movies = getMovies();
 
-if (empty($requestTags)) {
+if (empty($requestHead)) {
     echo json_encode($movies);
 } else {
     // Filter movies by tags
