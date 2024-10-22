@@ -1,11 +1,10 @@
-# Movie Recommender App
-This is a Movie/TV Show Recommender Engine built using PHP, HTML, and CSS. The application allows users to search for movies and TV shows based on genres or tags like romance, comedy, action, and more, displaying personalized recommendations based on user input.
+# Weather App
+This is a Weather App Engine built using PHP, HTML, and CSS. The application allows users to check the current weather of the selected city.
 
 ## Features
-Dynamic Movie Recommendations: Displays movies or TV shows based on user-specified genres/tags.
-Filter Movies by Genre: Users can filter movie recommendations by selecting specific tags.
-User Input: Allows users to query movie/TV show details by providing tags.
+Displays current weather for the selected city, including Current temperature (°C),Feels-like temperature,Weather description (e.g., “Clear sky”),
+Humidity level (%),Wind speed (m/s)
 ## Tech Stack
 Backend: PHP 8.0+
 Frontend: HTML5, CSS, JavaScript
-Server Requirements: Apache/Nginx server with PHP and MySQL installed.
+Server Requirements: Apache/Nginx server with PHP and JSON.
