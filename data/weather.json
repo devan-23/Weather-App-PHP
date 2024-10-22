@@ -1,0 +1,61 @@
+{
+  "city": "London",
+  "country": "GB",
+  "coordinates": {
+    "latitude": 51.5074,
+    "longitude": -0.1278
+  },
+  "weather": [
+    {
+      "main": "Clear",
+      "description": "clear sky",
+      "icon": "01d"
+    }
+  ],
+  "temperature": {
+    "current": 15,
+    "feels_like": 14,
+    "min": 10,
+    "max": 18,
+    "unit": "Celsius"
+  },
+  "humidity": 60,
+  "pressure": 1012,
+  "wind": {
+    "speed": 3.5,
+    "direction": 210
+  },
+  "sun": {
+    "sunrise": "2024-10-22T06:31:00Z",
+    "sunset": "2024-10-22T17:42:00Z"
+  },
+  "forecast": [
+    {
+      "day": "Tuesday",
+      "temperature": {
+        "min": 12,
+        "max": 16
+      },
+      "description": "Partly cloudy"
+    },
+    {
+      "day": "Wednesday",
+      "temperature": {
+        "min": 13,
+        "max": 18
+      },
+      "description": "Sunny"
+    },
+    {
+      "day": "Thursday",
+      "temperature": {
+        "min": 10,
+        "max": 15
+      },
+      "description": "Light rain"
+    }
+  ]
+}
+
+    
+
